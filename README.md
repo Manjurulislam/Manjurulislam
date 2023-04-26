@@ -3,7 +3,7 @@ Senior Software Engineer
 
 ![](https://komarev.com/ghpvc/?username=Manjurulislam&label=Views)
 
-## Skills
+## :rocket: Skills
 * Language : ![](https://img.shields.io/static/v1?label=PHP&message=7,8&color=success&style=plastic&logo=php&&logoColor=fff) ![](https://img.shields.io/static/v1?label=Javascript&message=ES6&color=F7DF1E&style=plastic&logo=javascript&&logoColor=fff)
 * Framework : ![](https://img.shields.io/static/v1?label=Laravel&message=7,8,9,10&color=FF2D20&style=plastic&logo=laravel&&logoColor=fff) ![](https://img.shields.io/static/v1?label=Vue.js&message=2,3&color=success&style=plastic&logo=Vue.js&logoColor=fff) ![](https://img.shields.io/static/v1?label=React.js&message=*&color=success&style=style=plastic&logo=react&logoColor=fff)
 * Database : ![](https://img.shields.io/static/v1?label=&message=MySql&color=critical&style=plastic&logo=Mysql&logoColor=fff) ![](https://img.shields.io/static/v1?label=&message=Postgresql&color=critical&style=plastic&logo=Postgresql&logoColor=fff) ![](https://img.shields.io/static/v1?label=&message=Mongodb&color=critical&style=plastic&logo=Mongodb&logoColor=fff)
@@ -11,10 +11,10 @@ Senior Software Engineer
 * Tools : ![](https://img.shields.io/static/v1?label=&message=Git&color=blue&style=plastic&logo=Git&logoColor=fff) ![](https://img.shields.io/static/v1?label=&message=Trello&color=blue&style=plastic&logo=Trello&logoColor=fff) ![](https://img.shields.io/static/v1?label=&message=Jira&color=blue&style=plastic&logo=Jira&logoColor=fff)
 
 
-## Career Overview
+## :chart_with_upwards_trend: Career Overview
 Experienced Software Enginee with 5+ years of hands on experience in developing scalable web application and Participating all face of application development lifecycle like application layer, presentation layer and database layer. Skillful creating server and database for functionality and designing and developing APIs. Hardworking and collaborative team player with track record of superior result.
 
-## Technical Overview
+## :computer: Technical Overview
 * Implementation of common design patterns (SOLID).
 * A deeper understanding of Laravel Service Container, Service Provider & Facade.
 * Managing single-threaded and multi-threaded queues using Redis.
@@ -27,7 +27,7 @@ Experienced Software Enginee with 5+ years of hands on experience in developing 
 * Expert in most commonly used framework Vue Js used v2 and v3.
 * Expert DevOps setup deployment server from scratch.
 
-## Work Experience
+## :briefcase: Work Experience
 #### Senior Software Engineer, Softwindtech Ltd.
 
 _____ September 2021 - Present _____
@@ -48,7 +48,7 @@ _____ Feb 2018 - Oct 2020 _____
 >
 > Tools/Technology: PHP, Laravel, MySQL, Redis, JavaScript, Vue.js
 
-## Education
+## :mortar_board: Education
 
 >	Bachelor Degree 
 >
@@ -74,7 +74,7 @@ _____ Feb 2018 - Oct 2020 _____
 >
 > 2005-2006
 
-## Contact
+## :iphone: Contact
 
 * Email - mijony29@gmail.com
 * Linkdin - https://www.linkedin.com/in/mijony
