@@ -44,7 +44,38 @@ _____ Feb 2018 - Oct 2020 _____
 
 > Project : NU EMS
 > 
-> Description : Developed four apps for The National University, including a Phone Book, Teacher Application, Student Application, and Center Management. Responsible for API development with Laravel.
+> Description : Developed An end-to-end automated Examination Management System that conducts, proctors, and evaluates exams, under a unified platform.
 >
 > Tools/Technology: PHP, Laravel, MySQL, Redis, JavaScript, Vue.js
 
+## Education
+
+>	Bachelor Degree 
+>
+> Govt. Titumir College (NU)
+>
+> Dhaka, Bangladesh
+>
+> 2011-2013
+
+>	HSC, Business Studies
+>
+> Tejgaon College
+>
+> Dhaka, Bangladesh
+>
+> 2006-2008
+
+>	SSC, Business Studies
+>
+> Civil Aviation High School
+>
+> Dhaka, Bangladesh
+>
+> 2005-2006
+
+## Contact
+
+* Email - mijony29@gmail.com
+* Linkdin - https://www.linkedin.com/in/mijony
+* Skype - jonyislam4
