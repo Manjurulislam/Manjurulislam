@@ -4,11 +4,11 @@ Senior Software Engineer
 ![](https://komarev.com/ghpvc/?username=Manjurulislam&label=Views)
 
 ## Skills
-* Language : ![](https://img.shields.io/static/v1?label=PHP&message=7,8&color=success) ![](https://img.shields.io/static/v1?label=Javascript&message=ES6&color=success)
-* Framework : ![](https://img.shields.io/static/v1?label=Laravel&message=7,8,9,10&color=success) ![](https://img.shields.io/static/v1?label=Vue.js&message=2,3&color=success) ![](https://img.shields.io/static/v1?label=React.js&message=*&color=success)
-* Database : ![](https://img.shields.io/static/v1?label=&message=MySql,Postgresql,Mongodb&color=blue)
-* Familiar : ![](https://img.shields.io/static/v1?label=&message=Mac&color=blue) ![](https://img.shields.io/static/v1?label=&message=Linux&color=blue)
-* Tools : ![](https://img.shields.io/static/v1?label=&message=Git&color=blue) ![](https://img.shields.io/static/v1?label=&message=CI/CD&color=blue) ![](https://img.shields.io/static/v1?label=&message=Trello&color=blue) ![](https://img.shields.io/static/v1?label=&message=Jira&color=blue)
+* Language : ![](https://img.shields.io/static/v1?label=PHP&message=7,8&color=success&style=plastic&logo=php&&logoColor=fff) ![](https://img.shields.io/static/v1?label=Javascript&message=ES6&color=F7DF1E&style=plastic&logo=javascript&&logoColor=fff)
+* Framework : ![](https://img.shields.io/static/v1?label=Laravel&message=7,8,9,10&color=FF2D20&style=plastic&logo=laravel&&logoColor=fff) ![](https://img.shields.io/static/v1?label=Vue.js&message=2,3&color=success&style=plastic&logo=Vue.js&logoColor=fff) ![](https://img.shields.io/static/v1?label=React.js&message=*&color=success&style=style=plastic&logo=react&logoColor=fff)
+* Database : ![](https://img.shields.io/static/v1?label=&message=MySql&color=critical&style=plastic&logo=Mysql&logoColor=fff) ![](https://img.shields.io/static/v1?label=&message=Postgresql&color=critical&style=plastic&logo=Postgresql&logoColor=fff) ![](https://img.shields.io/static/v1?label=&message=Mongodb&color=critical&style=plastic&logo=Mongodb&logoColor=fff)
+* Familiar : ![](https://img.shields.io/static/v1?label=Linux&message=*&color=blue&style=plastic&logo=Linux&logoColor=fff)
+* Tools : ![](https://img.shields.io/static/v1?label=&message=Git&color=blue&style=plastic&logo=Git&logoColor=fff) ![](https://img.shields.io/static/v1?label=&message=Trello&color=blue&style=plastic&logo=Trello&logoColor=fff) ![](https://img.shields.io/static/v1?label=&message=Jira&color=blue&style=plastic&logo=Jira&logoColor=fff)
 
 
 ## Career Overview
