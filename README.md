@@ -1,8 +1,6 @@
 ## MD Manjurul Islam
 Senior Software Engineer
 
-![](https://komarev.com/ghpvc/?username=Manjurulislam&label=Views)
-
 ## :rocket: Skills
 * Language : ![](https://img.shields.io/static/v1?label=PHP&message=7,8&color=success&style=plastic&logo=php&&logoColor=fff) ![](https://img.shields.io/static/v1?label=Javascript&message=ES6&color=F7DF1E&style=plastic&logo=javascript&&logoColor=fff)
 * Framework : ![](https://img.shields.io/static/v1?label=Laravel&message=7,8,9,10&color=FF2D20&style=plastic&logo=laravel&&logoColor=fff) ![](https://img.shields.io/static/v1?label=Vue.js&message=2,3&color=success&style=plastic&logo=Vue.js&logoColor=fff) ![](https://img.shields.io/static/v1?label=React.js&message=*&color=success&style=style=plastic&logo=react&logoColor=fff)
